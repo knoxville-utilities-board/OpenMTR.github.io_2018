@@ -48,4 +48,4 @@ Code reviews are an integral part of the developer workflow. Developers need to 
 - Rule 4: Do not review code for more than 60 minutes without a break.
 
 Always remember the golden rule and treat others how you would like to be treated.<br/>
-**Reviewing code is like kicking the developer in the ribs. A good reviewer can get a thank you for each kick dished out. -Matt Clinard**
+>Reviewing code is like kicking the developer in the ribs. A good reviewer can get a thank you for each kick dished out.
