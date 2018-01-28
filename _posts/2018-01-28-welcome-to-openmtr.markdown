@@ -7,6 +7,6 @@ categories: OpenMTR Updates
 
 ### Welcome to the OpenMTR Project!
 
-We are a group of students from Pellissippi State Community College that have been tasked with designing an Optical Character Recognition program to read utility meters.
+We are a group of students from [Pellissippi State Community College](https://www.pstcc.edu) that have been tasked with designing an Optical Character Recognition program to read utility meters.
 
 For more information about OpenMTR checkout our [Project Charter](https://OpenMTR.github.io/charter).
