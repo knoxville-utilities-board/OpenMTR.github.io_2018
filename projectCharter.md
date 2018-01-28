@@ -5,7 +5,7 @@ permalink: /charter/
 ---
 
 ## Idea Concept
-KUB is in the process of converting all meters in their service area to SmartMeters. The deployment is ~500k meters. To ensure accuracy of the meter readings, and therefore customer billing, photos are being taken during each install. Post install, each photo is manually reviewed to verify that the reading manually recorded is the same as the reading in the photo. This project will remove the requirement to manually review each photo, but rather only those photos that fail the automatic review. The project will use OpenCV to do an OCR process of existing meter photos. The OCR’d reading will be compared to the meta data of a meter.
+[Knoxville Utilities Board](https://www.kub.org/) is in the process of converting all meters in their service area to SmartMeters. The deployment is ~500k meters. To ensure accuracy of the meter readings, and therefore customer billing, photos are being taken during each install. Post install, each photo is manually reviewed to verify that the reading manually recorded is the same as the reading in the photo. This project will remove the requirement to manually review each photo, but rather only those photos that fail the automatic review. The project will use [OpenCV](https://opencv.org/) and [OpenCVSharp](https://github.com/shimat/opencvsharp) to do an Optical Character Read(OCR) process of existing meter photos. The OCR’d reading will be compared to the meta data of a meter.
 
 
 ## Minimum Viable Product Guidelines
