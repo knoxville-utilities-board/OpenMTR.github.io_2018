@@ -5,9 +5,9 @@ rvm:
 before_script:
 
 script:
-  set -e
-  bundle exec jekyll build
-  bundle exec htmlproofer ./_site --disable-external
+  - set -e
+  - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site --disable-external
 
 env:
   global:
