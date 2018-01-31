@@ -10,7 +10,7 @@ Branch names need to be descriptive and dasherized. Examples of good branch name
 <br/>`bryan-fix-submit-button`
 <br/>`nick-create-website-post`
 <br/>`alan-update-documentation`
-<br/>`todd-refactor-submit-method`
+<br/>`todd-refactor-welcome-class`
 
 ## Commit Messages
 Well formatted commit messages will aid in the ability to follow the history of the project.
