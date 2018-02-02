@@ -1,4 +1,4 @@
-# Readme
+# OpenMTR Documentation Site
 This is the documentation site for the OpenMTR software. This site will be used to record the process of its development and operation.
 
 ## Installation
