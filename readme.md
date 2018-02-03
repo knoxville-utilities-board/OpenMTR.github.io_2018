@@ -1,12 +1,11 @@
 # Readme
 This is the documentation site for the OpenMTR software. This site will be used to record the process of its development and operation.
 
-## Installation
-### Required Software
+## Required Software
 * [Docker](https://store.docker.com/editions/community/docker-ce-desktop-windows)
 * [Git](https://git-scm.com/)
 
-### Setup
+## Getting Started
 1. Ensure that docker can access the volume where your repository will be stored from its "Shared Drives" menu in settings
 2. Use `git clone git@github.com:OpenMTR/OpenMTR.github.io.git %userprofile%\git\OpenMTR.github.io` replacing `%userprofile%\git\OpenMTR.github.io` with a different directory if you don't want to put the repository there.
 3. Navigate to the repository in the command line and run `docker-compose up`
