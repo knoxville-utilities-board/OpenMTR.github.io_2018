@@ -18,7 +18,7 @@ permalink: /project-management/
 - [Github](https://github.com/) is a web-based hosting service for version control using git. It offers all of the distributed version control and source code management functionality of git as well as adding its own features.
 
 ## Continuous integration
-- [Jenkins](https://jenkins.io/) is an open source automation server and provides hundreds of plugins to support building, deploying and automating any project.
+- [Travis CI](https://travis-ci.org/) is an open source automation server and provides hundreds of plugins to support building, deploying and automating any project, that allows you to watch testing in real time.
 
 ## Static Code Analysis
-- [Sonarqube](https://www.sonarqube.org/)  provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
+- [Better Code Hub](https://bettercodehub.com/)  is a "Static Code Analysis Tool" which allows us to make sure that our code base is following best practices and industry standards, that uses multiple metrics.  it then takes each metric and runs it against multiple fixed thresholds.
