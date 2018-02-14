@@ -25,7 +25,7 @@ few days, until he shifts gears to bug fixing for a few days.  Once that is comp
 petal for coding.
 
 Nick has finished his demo project and will be working on filters but should be finished by the end of this
-sprint.  
+sprint.  He is also going to be assisting Alan with the design for the website.
 
 Check back next week for more updates to how the project is going as well as what innovations we have come up
 with for OpenMTR!
