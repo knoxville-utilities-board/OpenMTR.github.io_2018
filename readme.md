@@ -24,7 +24,7 @@ This is the documentation site for the OpenMTR software. This site will be used 
     3. Select **new** and enter ruby's bin folder, by default `C:\Ruby24-x64\bin`
 2. Open the command prompt
 3. If you didn't already run `ridk install` through the ruby installer you will need to do so yourself and install all three options presented. When that is done use `Ctrl^C` to get back out to the command prompt.
-4. run `gem install jekyll`
+4. run `gem install jekyll bundler`
 5. Using `cd` navigate to the repository where you cloned the site
 6. run `bundle install`
 7. run `bundle exec jekyll serve`
