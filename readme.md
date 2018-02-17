@@ -19,9 +19,9 @@ This is the documentation site for the OpenMTR software. This site will be used 
 * [Ruby](https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.3-1/rubyinstaller-2.4.3-1-x64.exe)
 #### Getting Started
 1. After installing ruby you will need to add an entry to your system path.
-    1. Search for "environment variables" in the start menu search bar, or alternatively navigate to the control panel, select **system**, then **advanced system settings**, and navigate to the **advanced** tab.
-    2. In **environment variables** there are two lists of variables: the top list is for only the active user, and the bottom is for every user on the machine. Find the **Path** variable in whichever is more appropriate and select **edit**
-    3. Select **new** and enter ruby's bin folder, by default `C:\Ruby24-x64\bin`
+    1. Search for "environment variables" in the start menu search bar, or alternatively navigate to the control panel, select **_System_**, then **_Advanced System Settings_**, and navigate to the **_Advanced_** tab.
+    2. In **_Environment Variables_** there are two lists of variables: the top list is for only the active user, and the bottom is for every user on the machine. Find the **_Path_** variable in whichever is more appropriate and select **_Edit_**
+    3. Select **_New_** and enter ruby's bin folder, by default `C:\Ruby24-x64\bin`
 2. Open the command prompt
 3. If you didn't already run `ridk install` through the ruby installer you will need to do so yourself and install all three options presented. When that is done use `Ctrl^C` to get back out to the command prompt.
 4. Run `gem install jekyll bundler`
