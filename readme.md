@@ -1,8 +1,10 @@
 # OpenMTR.Github.io
 This is the documentation site for the OpenMTR software. This site will be used to record the process of its development and operation.
 
-## Running This Site Locally
-### On a Virtual Machine Through Docker
+## Running Site Locally
+
+### Docker
+
 #### Required Software
 * [Docker](https://store.docker.com/editions/community/docker-ce-desktop-windows)
 * [Git](https://git-scm.com/)
@@ -14,9 +16,13 @@ This is the documentation site for the OpenMTR software. This site will be used 
 4. You're done! You can open a web browser and navigate to <http://localhost:4000> to test the site.
    * To stop the server press `Ctrl^C` into the command prompt and/or close the command prompt window.
    * To start the server again repeat step 3.
-### Directly
+
+### Ruby
+
 #### Required Software
 * [Ruby](https://github.com/oneclick/rubyinstaller2/releases/download/rubyinstaller-2.4.3-1/rubyinstaller-2.4.3-1-x64.exe)
+* [Git](https://git-scm.com/)
+
 #### Getting Started
 1. After installing ruby you will need to add an entry to your system path.
     1. Search for "environment variables" in the start menu search bar, or alternatively navigate to the control panel, select **_System_**, then **_Advanced System Settings_**, and navigate to the **_Advanced_** tab.
