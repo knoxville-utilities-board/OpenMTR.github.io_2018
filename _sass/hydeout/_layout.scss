@@ -25,10 +25,13 @@
 body {
   color: rgba(255,255,255,.75);
   background-color: $sidebar-bg-color;
-  background-image: linear-gradient(
+/*  background-image: linear-gradient(
     to bottom,
     lighten($sidebar-bg-color, 7%),
     darken($sidebar-bg-color, 7%));
+*/
+  background-image: url("/images/edges.png");
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   min-width: 100vw;
