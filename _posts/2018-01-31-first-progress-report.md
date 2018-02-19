@@ -3,6 +3,7 @@ layout: post
 title:  "First Progress Report"
 date:   2018-01-31 14:28:00 -0500
 categories: OpenMTR Updates
+tags: Updates
 ---
 Just a quick update from deep within the OpenMTR war room...  Several things have taken place since inception
 the first of which being the setup of our GitHub Organization and initializing all necessary repositories.

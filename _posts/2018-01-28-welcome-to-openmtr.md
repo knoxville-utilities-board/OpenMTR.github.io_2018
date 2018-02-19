@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to the OpenMTR Project"
 date:   2018-01-28 15:00:00 -0500
 categories: OpenMTR Updates
+tags: Updates
 ---
 
 ### Welcome to the OpenMTR Project!
