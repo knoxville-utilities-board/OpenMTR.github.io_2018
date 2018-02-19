@@ -27,7 +27,7 @@ body {
   background-color: $sidebar-bg-color;
   background-image: linear-gradient(
     to bottom, transparent, $sidebar-bg-color),
-	url("/images/edges.png");
+	url("./images/edges.png");
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
