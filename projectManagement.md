@@ -1,6 +1,6 @@
 ---
 title: Project Management
-layout: default
+layout: index
 permalink: /project-management/
 ---
 
