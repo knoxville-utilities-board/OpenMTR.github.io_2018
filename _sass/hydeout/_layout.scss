@@ -25,12 +25,9 @@
 body {
   color: rgba(255,255,255,.75);
   background-color: $sidebar-bg-color;
-/*  background-image: linear-gradient(
-    to bottom,
-    lighten($sidebar-bg-color, 7%),
-    darken($sidebar-bg-color, 7%));
-*/
-  background-image: url("/images/edges.png");
+  background-image: linear-gradient(
+    to bottom, transparent, $sidebar-bg-color),
+	url("/images/edges.png");
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
@@ -41,7 +38,9 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
-
+  background-image: linear-gradient(
+    to bottom, transparent, $sidebar-bg-color);
+  
   .site-title {
     font-family: "Abril Fatface", serif;
     font-weight: normal;
