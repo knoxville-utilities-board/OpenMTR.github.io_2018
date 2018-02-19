@@ -22,7 +22,6 @@ github_username:  OpenMTR
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
