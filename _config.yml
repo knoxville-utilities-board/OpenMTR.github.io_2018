@@ -2,7 +2,7 @@
 title: OpenMTR
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for OpenMTR.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ''
 url: "OpenMTR.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  OpenMTR
 
@@ -13,7 +13,8 @@ markdown: kramdown
 
 paginate:         5
 # paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
