@@ -22,29 +22,29 @@
   we want the sidebar or header to stretch.
 */
 
-
-
-body {
-  color: rgba(255,255,255,.75);
-  background-color: $sidebar-bg-color;
-  background-repeat: no-repeat;
-  display: flex;
-  flex-direction: column;
-  min-width: 100vw;
-  min-height: 100vh;
-}
 @media (min-width: 49rem) {
   body {
     background-image: linear-gradient(
-      to bottom, transparent, $sidebar-bg-color), url("./images/edges.png");
+      to bottom, transparent, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%)), url("./images/edges.png");
   }
 }
 
 @media (max-width: 49rem) {
   body {
 	background: linear-gradient(
-      to left, transparent, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%), transparent), url("./images/edges.png");
+      to right, lighten($sidebar-bg-color, 7%), $sidebar-bg-color, darken($sidebar-bg-color, 7%), transparent), url("./images/edges.png");
   }
+}
+
+
+body {
+  color: rgba(255,255,255,.75);
+  background-color: darken($sidebar-bg-color, 20%);
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  min-width: 100vw;
+  min-height: 100vh;
 }
 #sidebar {
   flex: 0 0 auto;
