@@ -22,24 +22,37 @@
   we want the sidebar or header to stretch.
 */
 
+@media (min-width: 49rem) {
+  body {
+    background-image: linear-gradient(
+      to bottom, transparent, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%)), url("./images/edges.png");
+  }
+}
+
+@media (max-width: 49rem) {
+  body {
+	background: linear-gradient(
+      to right,
+	  lighten($sidebar-bg-color, 7%), lighten($sidebar-bg-color, 3.5%), $sidebar-bg-color, darken($sidebar-bg-color, 3.5%), transparent),
+	  url("./images/edges.png");  
+	background-position: center, top right;
+  }
+}
+
+
 body {
   color: rgba(255,255,255,.75);
-  background-color: $sidebar-bg-color;
-  background-image: linear-gradient(
-    to bottom, transparent, $sidebar-bg-color),
-	url("./images/edges.png");
+  background-color: darken($sidebar-bg-color, 7%);
   background-repeat: no-repeat;
+  background-size: cover, 35rem;
   display: flex;
   flex-direction: column;
   min-width: 100vw;
   min-height: 100vh;
 }
-
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
-  background-image: linear-gradient(
-    to bottom, transparent, $sidebar-bg-color);
   
   .site-title {
     font-family: "Abril Fatface", serif;
