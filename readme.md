@@ -1,3 +1,9 @@
+---
+layout: default
+title: ReadMe
+permalink: /readme/
+---
+
 # OpenMTR.Github.io
 This is the documentation site for the OpenMTR software. This site will be used to record the process of its development and operation.
 

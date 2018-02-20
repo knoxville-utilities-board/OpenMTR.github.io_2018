@@ -2,6 +2,7 @@
 title: Developer Workflow
 layout: default
 permalink: /developer-workflow/
+sidebar_link: true
 ---
 
 ## Branch Names

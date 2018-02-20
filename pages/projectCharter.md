@@ -2,6 +2,7 @@
 title: Project Charter
 layout: default
 permalink: /charter/
+sidebar_link: true
 ---
 
 ## Idea Concept

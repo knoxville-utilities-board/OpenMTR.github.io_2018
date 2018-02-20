@@ -2,6 +2,7 @@
 title: Project Management
 layout: default
 permalink: /project-management/
+sidebar_link: true
 ---
 
 ## Team Assignment Structure
