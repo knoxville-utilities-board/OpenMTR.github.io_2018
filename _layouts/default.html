@@ -4,14 +4,16 @@
   {% include head.html %}
   
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
-  
+  <div class = "opaque-layer"></div>
   
     {% include sidebar.html %}
 
-    <main class="container">
+    <div class = "content" style = "width: 100%; margin: 0%; padding: 8px;">
+      <main class="container">
       {{ content }}
-    </main>
+      </main>
 
+    </div>
     {% include custom-foot.html %}
   </body>
 </html>
