@@ -28,7 +28,6 @@ body {
   background-color: darken($sidebar-bg-color, 7%);
   background-image: url("./images/edges.png");
   background-repeat: no-repeat;
-  background-size: 49rem;
   display: flex;
   flex-direction: column;
   min-width: 100vw;
@@ -38,18 +37,28 @@ body {
 @media (min-width: 49rem) {
   body {
 	background-position: top left;
+	background-size: 100%;
   }
 }
 
 @media (max-width: 49rem) {
   body {
 	background-position: top center;
+	background-size: 49rem;
   }
+}
+
+.opaque-layer {
+	background-color: rgba(0, 0, 0, 0.6);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: -1;
 }
 
 #sidebar {
   flex: 0 0 auto;
-  padding: $section-spacing;
+  padding: $section-spacing - 1rem;
   
   .site-title {
     font-family: "Abril Fatface", serif;
