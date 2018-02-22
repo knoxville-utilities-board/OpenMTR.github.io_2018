@@ -40,12 +40,12 @@
 
 // Make room for larger header by extending margin below title
 .index #sidebar {
-  padding-bottom: calc(#{$section-spacing} + #{$padding-v});
+  padding-bottom: calc(#{$section-spacing - 1rem} + #{$padding-v});
 }
 
 // But not on page1
 .home.index #sidebar {
-  padding-bottom: $section-spacing;
+  padding-bottom: $section-spacing - 1rem;
 }
 
 // Undo for larger screens
@@ -67,6 +67,6 @@
   }
 
   .index #sidebar {
-    padding-bottom: $section-spacing;
+    padding-bottom: $section-spacing - 1rem;
   }
 }
