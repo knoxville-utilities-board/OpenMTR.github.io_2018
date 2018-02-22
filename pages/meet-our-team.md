@@ -27,7 +27,7 @@ CNC.
 Alan Carpenter - After a 16 year career in mental health, computer science seemed like the next logical
 step.  He is fascinated with the capabilities of only a few lines of code.  Currently, he is working with
 a front-end stack of languages and working to improve webpage design.  Future goals include improving
-database design skills as well as project management.
+database design skills and project management.
 
 ![profiletodd](https://user-images.githubusercontent.com/35777619/36550067-4ef6f8c6-17c2-11e8-962e-8ca5929cb4f8.jpg)
 Todd Reagan - Todd is in his 2nd to last semester at Pellissippi.  He is hoping to land a web development
