@@ -3,6 +3,7 @@ layout: page
 title:  "Development Tools and Software"
 date:   2018-02-27 11:13:00 -0500
 categories: OpenMTR Status
+sidebar_link: true
 ---
 Here are the programs using the team is using to accomplish our goals from week to week.
 
@@ -10,7 +11,7 @@ Here are the programs using the team is using to accomplish our goals from week 
 Notepad
 
 #### [Powerpoint](https://products.office.com/en-us/powerpoint) A presentation program that was
-released in the 80's, it is now synonomis with presentations around the world.
+released in the 80's, it is now synonymous with presentations around the world.
 
 #### [Atom.io](atom.io) Atom is a hackable web based text editor from Github.
 
