@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Progress Report"
+title:  "Ready, Set, CODE!"
 date:   2018-2-7 11:17:00 -0500
 categories: OpenMTR Updates
 tags: Updates
