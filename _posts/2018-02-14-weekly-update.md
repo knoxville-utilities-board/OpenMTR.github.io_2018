@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Third Progress Report"
+title:  "Ain't nobody got time for Valentine's day, we have a program to build!"
 date:   2018-02-14 11:17:00 -0500
 categories: OpenMTR Updates
 ---
