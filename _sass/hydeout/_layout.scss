@@ -59,15 +59,12 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing - 1rem;
-  
+
   .site-title {
-    font-family: "Abril Fatface", serif;
-    font-weight: normal;
-    font-size: $large-font-size;
+    font-family: 'Orbitron', sans-serif;
     color: rgba(255,255,255,.75);
     margin-top: 0;
     margin-bottom: $heading-spacing;
-
     a {
       color: inherit;
       &:hover { color: white; }
