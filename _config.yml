@@ -1,7 +1,7 @@
 
 title: OpenMTR
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: ''
+baseurl: ""
 url: "OpenMTR.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  OpenMTR
 
