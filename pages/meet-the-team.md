@@ -1,6 +1,6 @@
 ---
 title: Meet the Team
-layout: default-2
+layout: team
 permalink: /team/
 sidebar_link: true
 ---

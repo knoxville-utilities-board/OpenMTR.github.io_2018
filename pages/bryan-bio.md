@@ -1,6 +1,6 @@
 ---
 title:  "bryan-bio"
-layout: default-2
+layout: team
 date:   2018-03-13 11:27:00 -0500
 categories: meet-the-team addon
 ---
