@@ -6,18 +6,17 @@ categories: OpenMTR Updates
 tags: Updates
 ---
 
-
 Last week was our midterm presentation and it went wonderful!  Nobody got ridiculously lost, at
 least as far as I could tell, and our instructor seemed to be very impressed with everything we
-have accomplished so far.  Everyone did a great job explaining the work they have put in, they
+have accomplished so far.  Everyone did a great job explaining the work they have put in, the
 systems they have used and how they accomplished their task.
 
 For this coming week here is a breakdown of what the team will be working on.  We hope you are
 just as excited as we are to see this through, and I suspect that since you are still reading
 our updates that you probably are!
 
-- Matt will be working close with Brian and Nick this week, to make sure both sides are syncing up well
-and running smoothly as well as checking in with Alan and Todd on there tasks since time is of the
+- Matt will be working close with Brian and Nick this week  to make sure both sides are syncing up well
+and running smoothly. He will also be checking in with Alan and Todd on there tasks since time is of the
 essence.
 
 - Alan is working on the final report for our professor.  It is a big undertaking as it
@@ -35,7 +34,7 @@ project.  To better show off workflow, he will be isolating steps and images as 
 give a better idea of what the program does that the user will never see.
 
 - Bryan will be diving further into OpenMTR this week.  His main goal is to improve detection
-workflow using multi pass system to handle a wide array of engines  
+workflow using multi-pass decision logic to handle a wider array of situations regarding images of meters.
 
 Thanks for stopping by to check up, we are almost to the home stretch!  Things will continue to
 get more and more exciting as we near the end of our time to complete!  See you next week!
