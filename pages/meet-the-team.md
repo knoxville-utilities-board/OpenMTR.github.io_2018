@@ -19,7 +19,7 @@ Bryan Dingman <br>
 
 ![profilenick](https://user-images.githubusercontent.com/35777619/36549741-80f12640-17c1-11e8-853b-bfe10f11f01b.jpg)
 Nick Hietala<br/>
-[<i class="fa  fa-user-circle" title="Biography" style="color:black" />](./nick-bio.md) | [<i class="fa fa-github"  title="Github Repository" style="color:black"/>](https://github.com/nchietala){:target="_blank"} | [<i class="fa  fa-globe" title="Website" style="color:black"/>](www.discgolfcoursereview.com){:target="_blank"}
+[<i class="fa  fa-user-circle" title="Biography" style="color:black" />](./nick-bio.md) | [<i class="fa fa-github"  title="Github Repository" style="color:black"/>](https://github.com/nchietala){:target="_blank"} | [<i class="fa  fa-globe" title="Website" style="color:black"/>](http://nick.hietala.us){:target="_blank"}
 <br/>
 <br/>
 
