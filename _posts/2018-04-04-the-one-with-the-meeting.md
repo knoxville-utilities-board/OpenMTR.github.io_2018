@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The one with the meeting"
-date:   2018-04-04 1147:00 -0500
+date:   2018-04-04 11:47:00 -0500
 categories: OpenMTR Updates
 tags: Updates
 ---
