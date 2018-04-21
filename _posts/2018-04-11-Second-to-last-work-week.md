@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second-to-last-work-week"
+title:  "Second to last work week"
 date:   2018-04-11 11:47:00 -0500
 categories: OpenMTR Updates
 tags: Updates
